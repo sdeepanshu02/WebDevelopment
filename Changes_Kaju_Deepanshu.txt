@@ -1,0 +1,11 @@
+1. changed code stucture 
+
+Made separate folder for respective files.
+
+New Structure --- 1. style -- css files
+				  2. images -- all jpg and png images
+				  3. html -- all html files except index.html
+				  4. index.html file
+				  5. readme.md file
+
+We changed all the links given in code to any image or file as well.
