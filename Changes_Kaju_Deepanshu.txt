@@ -21,4 +21,4 @@ We changed all the links given in code to any image or file as well.
 
 6. design of navbar and contact section updated and redudancy removed. options for link to youtube, twitter are also provided.
 
-7. 
+7. Registration link updated on every page
