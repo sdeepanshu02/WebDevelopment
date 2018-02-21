@@ -19,4 +19,6 @@ We changed all the links given in code to any image or file as well.
 
 5. Removed one extra countdown timer.
 
-6. 
+6. design of navbar and contact section updated and redudancy removed. options for link to youtube, twitter are also provided.
+
+7. 
