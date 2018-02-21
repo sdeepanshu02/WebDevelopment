@@ -14,3 +14,9 @@ We changed all the links given in code to any image or file as well.
 2. Added hertz icon in various page.
 
 3. Home Reference corrected in various page
+
+4. Changed Bootstrap for margin problem and corrected index.html bootstrap grid system
+
+5. Removed one extra countdown timer.
+
+6. 
