@@ -1,26 +1,33 @@
 .navbar-inverse {
-  background-color: #34495e;
+  background-color: #89c4d3;
   
 }   
 
 .navbar-inverse .navbar-brand {
   color: white;
   font-size: 25px;
+  font-weight: bold;
+  padding-left: 50px;
 }
 
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
   color: #f39c12;
   background-color: transparent;
+  font-weight: bold;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: white;
+  color: black;
   font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-  color: white;
-  background-color:  #27ae60;
+  color: black;
+  background-color:  #1a9bbc;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
@@ -64,6 +71,7 @@ p.email
   color: #f39c12;
   font-size: 22px;
   font-family: ;
+  text-align: center;
 }
 p.about12
 {
@@ -99,4 +107,9 @@ div.col-md-12
   padding-right: 15px;
   padding-bottom: 20px;
   text-align: center;
+}
+
+#home
+{
+  margin-top:5%;
 }
