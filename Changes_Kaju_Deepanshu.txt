@@ -9,3 +9,8 @@ New Structure --- 1. style -- css files
 				  5. readme.md file
 
 We changed all the links given in code to any image or file as well.
+
+
+2. Added hertz icon in various page.
+
+3. Home Reference corrected in various page
